@@ -1,4 +1,5 @@
 🖥️ Fake Hacking Terminal
+
 🚀 This is a JavaScript practice project where I created a Fake Hacking Terminal using HTML, CSS, and JavaScript. It mimics a hacking sequence, displaying fake hacking logs with a loading animation before clearing up.
 
 ✨ Features
